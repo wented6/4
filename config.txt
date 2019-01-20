@@ -1,6 +1,6 @@
 token=NTM1NTg4OTE2MjcxNjQ0Njcy.DyKYyQ.EsZnHm3oQPtNWsPFXvxGh_D2JSM
 owner=521341978659651596
-prefix= Ll
+prefix= 9
 game=
 stayinchannel=true
 songinstatus=false
